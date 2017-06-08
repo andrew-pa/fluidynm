@@ -6,4 +6,4 @@ An AP Physics 2 project by Andrew Palmer and Brian Liao to create a fluid dynami
 
 [Shadertoy 2D Demo](https://www.shadertoy.com/view/ldXfWN)
 
-[Good source for navier-stokes in python](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+[Good source for Navier-Stokes in Python](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
